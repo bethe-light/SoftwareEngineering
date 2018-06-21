@@ -1,3 +1,6 @@
+#软件工程大作业
+ - 基于React.js React-Router 及 antd-design UI框架
+ - 使用npm yarn 等包管理器
 
 ## Folder Structure
 
